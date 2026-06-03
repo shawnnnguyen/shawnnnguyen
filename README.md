@@ -1,16 +1,34 @@
-## Hi there 👋
+# Shawn Nguyen
 
-<!--
-**shawnnnguyen/shawnnnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tech Nerd**
 
-Here are some ideas to get you started:
+On my way to AI Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,ts,java,js&theme=dark" alt="Languages"/>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark" alt="Frontend"/>
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,postgres,mongodb,mysql&theme=dark" alt="Backend & Databases"/>
+
+**DevOps & Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,git,figma,githubactions&theme=dark" alt="DevOps & Cloud"/>
+
+## Languages
+- 🇬🇧 **English** · ![Advanced](https://img.shields.io/badge/-Advanced-66bb6a?style=flat-square)
+- 🌐 **Vietnamese** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
+- 🌐 **Swedish** · ![Basic](https://img.shields.io/badge/-Basic-ff4444?style=flat-square)
+
+## Extras
+
+### Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shawnnnguyen&theme=midnight-purple&hide_border=true&area=true)](https://github-readme-activity-graph.vercel.app/graph?username=shawnnnguyen&theme=midnight-purple&hide_border=true&area=true)
